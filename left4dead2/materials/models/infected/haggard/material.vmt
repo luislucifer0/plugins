@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\infected\haggard/Material"
+$bumpmap "models\infected\haggard\Material_normal"
+
+}
